@@ -1,5 +1,7 @@
-%Sets a timer using inputs of minutes and seconds
-%If an arduino is connected, also activates a selected digital pin
+%Timer.m
+%   Author: Josiah Laakkonen
+%   Sets a timer using inputs of minutes and seconds
+%   If an arduino is connected, also activates a selected digital pin
 clear;
 clc;
 
